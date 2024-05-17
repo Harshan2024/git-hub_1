@@ -1,0 +1,25 @@
+{
+   "students": [
+      {
+         "s_no": 1,
+         "name": "Mahesh",
+         "address": "thoothukudi",
+         "course": "tally",
+         "duration": "1 month"
+      },
+      {
+         "s_no": 2,
+         "name": "harshan",
+         "address": "chennai",
+         "course": "java",
+         "duration": "3 months"
+      },
+      {
+         "s_no": 3,
+         "name": "dhiyal",
+         "address": "coimbatore",
+         "course": "html",
+         "duration": "2 month"
+      }
+   ]
+}

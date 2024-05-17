@@ -1,0 +1,21 @@
+{
+    "Questions":
+    [
+       {
+        "Question":"What is the capital of Japan ?",
+        "choice":"A.Hong kong\nB.Sanfransico\nC.Tokyo\nD.Cairo",
+        "Answer":"C"
+       },
+       {"Question":"What is the capital of India ?",
+         "choice":"A.Mumbai\nB.Chennai\nC.kolkata\nD.Delhi",
+         "Answer":"D"
+       }, 
+       {
+        "Question":"What is the capital of the Mexico ?",
+        "choice":"A.New York\nB.Mexico city\nC.Berlin,\nD.Indore",
+        "Answer":"B"
+       }
+
+    ]
+    
+}

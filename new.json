@@ -1,0 +1,19 @@
+{
+    "emp_details": [
+        {
+            "emp_name": "Harshan",
+            "emp_add": "tuticorin",
+            "emp_age": "20"
+        },
+        {
+            "emp_name": "jack",
+            "emp_add": "Mumbai",
+            "emp_age": "17,"
+        },
+        {
+            "emp_name": "finlay",
+            "emp_add": "ooty",
+            "emp_age": "24"
+        }
+    ]
+}
