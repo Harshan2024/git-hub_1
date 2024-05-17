@@ -8,7 +8,7 @@ class Employee:
 
     def bonous(self):
         self.salary*=(10/100)
-        print("The bonous of",self.empname,"is",self.salary)
+        print("The bonous of",self.empname,"is",self.salary,"!")
 
     def increament(self):
         self.salary*=(10/100)
