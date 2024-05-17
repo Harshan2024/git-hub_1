@@ -12,7 +12,7 @@ class chef:
 
     def non_veg(self):
         time.sleep(5)
-        print(f"The {self.non_veg_dish} is ready")
+        print(f"The {self.non_veg_dish} is ready!")
 
 # c1=chef("Harshan","Ghee rice","chicken noddle")
 # c2=chef("Dixon","panner rice","mutton rice")
