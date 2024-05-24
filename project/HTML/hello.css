@@ -1,0 +1,10 @@
+.good{
+    border-style: solid;
+
+    font-family:"Josefin Sans" ;
+    border-width: 4px;
+    border-color: black;
+    border-left: 4px dotted red;
+    border-right: 4px dotted red;
+    background-color: burlywood;
+}
