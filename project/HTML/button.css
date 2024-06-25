@@ -1,0 +1,42 @@
+.good{
+    margin-left: 590px;
+    margin-top: 20px;
+    font-size: x-large;
+    border-radius: 80px;
+}
+
+.good_1{
+    border-style: solid;
+    margin-left: 36%;
+    margin-right: 45%;
+    padding-left: 12px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    text-decoration-thickness: 10px;
+}
+
+.bad{
+  
+   height: 70px;
+   margin-left: 650px;
+   size: 200px;
+   
+}
+/* .new{
+    color: black;
+    border: none;
+    border-style: solid;
+    border-color: black;
+   border-top: 50px;
+    border-left: 50px;
+    border-right: 50px;
+    border-bottom: 50px;
+
+    border-width: 50px;
+    margin-left: 390px;
+    margin-right: 470px;
+} */
+.hars{
+    
+}
