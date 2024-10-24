@@ -96,3 +96,12 @@ for i in name:
     else:
         output+=i
 print("The converted name:",output)                
+
+
+name=str(input("Enter your string:"))
+vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
+count=0
+for i in name:
+    if i in vowels:
+        count+=1
+print(count)  
